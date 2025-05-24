@@ -62,3 +62,5 @@ git commit -a -m Убрал usingnamespace std
 ```git push```
 
 9. Проверка истории коммитов
+![image](https://github.com/user-attachments/assets/2dd20f43-922e-4ec0-abdc-9877d55285ef)
+
