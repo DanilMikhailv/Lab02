@@ -15,7 +15,8 @@ README
 
 Вставил следующий код с плохим стилем:
 
-```#include <iostream>
+```
+#include <iostream>
 using namespace std;
 
 int main()
